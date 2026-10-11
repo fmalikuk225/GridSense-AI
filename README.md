@@ -1,5 +1,9 @@
 # ⚡ GridSense AI
 
+**🚀 Live Dashboard:** https://gridsense-ai-uk.streamlit.app/
+
+**Status:** Deployed portfolio prototype | Synthetic demonstration data by default
+
 **Electricity demand forecasting and peak-load intelligence** — an independent, reproducible AI portfolio prototype for energy-sector analytics.
 
 > **Status:** Portfolio MVP, not production software. **No affiliation with National Grid or RWE.** Synthetic example data are not real energy-system observations.
